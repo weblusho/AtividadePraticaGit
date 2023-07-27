@@ -1,5 +1,0 @@
-Novo arquivo de texto. quero ve se tem os ramos e hashs
-
-Realmente: o checkout tira um arquivo de modificado para nunca modificado.
-
-Agora e a vez do $git reset HEAD <file> 
